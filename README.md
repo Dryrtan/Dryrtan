@@ -14,7 +14,9 @@
 </div>
 <hr>
 <div align="center">
+  <a href="https://open.spotify.com/user/31pxt35poytv673mrgk7pxjtbcsy?si=6e17b832f0984f93" target="_blank">
     <img height="150em" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31pxt35poytv673mrgk7pxjtbcsy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31pxt35poytv673mrgk7pxjtbcsy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+  </a>
 </div>
 <!--
 Se você está lendo isso, significa que você está bisbilhotando minhas coisas... Deixa de ser curioso rapá
