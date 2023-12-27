@@ -17,7 +17,7 @@
     <h4>Database</h4>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+    <img src="https://img.shields.io/badge/sqlite-003545?style=for-the-badge&logo=sqlite&logoColor=white" />
   </p>
   <p>
     <h4>DevOps, CI/CD</h4>
@@ -34,9 +34,7 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31pxt35poytv673mrgk7pxjtbcsy&redirect=true" target="_blank"> 
-    <img height="150em" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31pxt35poytv673mrgk7pxjtbcsy&cover_image=true&theme=novatorem&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
+  <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31pxt35poytv673mrgk7pxjtbcsy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
 </div>
 
 <!--
