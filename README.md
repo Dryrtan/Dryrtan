@@ -1,7 +1,5 @@
 ![👋 Hi, my name is Kleidimar Martins(Dryrtan)](https://i.ibb.co/LrJyF9g/github-header-image.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=dryrtan&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc" align="center">
   <ul align="center" style="list-style: none">
     <summary>
