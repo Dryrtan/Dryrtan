@@ -10,11 +10,11 @@
   </ul>
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/dryrtan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/kleidimar-martins-210b5b159" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/kleidimar_martins" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+**<h3 align="center">Connect with me:</h3>**
+<p align="center"><a href="https://github.com/dryrtan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px" alt=""></a> <a href="https://www.linkedin.com/in/kleidimar-martins-210b5b159" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/kleidimar_martins" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Backend developer passionate about creating robust and scalable solutions. 
-Specialized in architecting efficient APIs and improving database performance. 
+**<h3 align="left">🚀 Backend developer passionate about creating robust and scalable solutions.
+Specialized in architecting efficient APIs and improving database performance.
 Always looking for new challenges and learning in the area of ​​software development.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
@@ -24,11 +24,23 @@ Always looking for new challenges and learning in the area of ​​software dev
 - 💬 Ask me about: **💡 PHP, Python, JavaScript, Node.js, Delphi SQL, and RESTful APIs**
 - ⚡ Fun fact: **📱 I already created a website using a Nokia E71**
 
- **<h3 align="center">Skills</h3>**
+**<h3 align="center">Skills</h3>**
 
-<p align="center"><img src="https://img.shields.io/badge/Pascal-002D72?logo=pascal&logoColor=white" height="32" alt="Pascal" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"></p>
+<p align="center">
+<img src="./img/delphi-color.svg" height="47" alt="Delphi" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/javascript-color.svg" height="47" alt="JavaScript" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/python-color.svg" height="47" alt="Python" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/php-color.svg" height="47" alt="PHP" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/prisma-color.svg" height="47" alt="Prisma" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/nodedotjs-color.svg" height="47" alt="Node.js" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/postgresql-color.svg" height="47" alt="PostgreSQL" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/mysql-color.svg" height="47" alt="MySQL" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/mariadb-color.svg" height="47" alt="MariaDB" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/docker-color.svg" height="47" alt="Docker" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+<img src="./img/githubactions-color.svg" height="47" alt="GitHub Actions" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+</p>
 
- **<h3 align="left">GitHub Stats</h3>**
+**<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dryrtan&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
