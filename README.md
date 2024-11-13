@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>**
-<p align="center"><a href="https://github.com/dryrtan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px" alt=""></a> <a href="https://www.linkedin.com/in/kleidimar-martins-210b5b159" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/kleidimar_martins" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center"><a href="https://github.com/dryrtan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px" alt=""></a> <a href="https://www.linkedin.com/in/kleidimar-martins-210b5b159" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/dryrtan" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 **<h3 align="left">🚀 Backend developer passionate about creating robust and scalable solutions.
 Specialized in architecting efficient APIs and improving database performance.
