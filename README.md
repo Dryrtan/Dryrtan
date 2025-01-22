@@ -40,10 +40,7 @@ Always looking for new challenges and learning in the area of ​​software dev
 <img src="./img/githubactions-color.svg" height="47" alt="GitHub Actions" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
 </p>
 
-**<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dryrtan&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=dryrtan&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
