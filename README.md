@@ -27,17 +27,39 @@ Always looking for new challenges and learning in the area of ​​software dev
 **<h3 align="center">Skills</h3>**
 
 <p align="center">
-<img src="./img/delphi-color.svg" height="47" alt="Delphi" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/javascript-color.svg" height="47" alt="JavaScript" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/python-color.svg" height="47" alt="Python" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/php-color.svg" height="47" alt="PHP" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/prisma-color.svg" height="47" alt="Prisma" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/nodedotjs-color.svg" height="47" alt="Node.js" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/postgresql-color.svg" height="47" alt="PostgreSQL" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/mysql-color.svg" height="47" alt="MySQL" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/mariadb-color.svg" height="47" alt="MariaDB" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/docker-color.svg" height="47" alt="Docker" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
-<img src="./img/githubactions-color.svg" height="47" alt="GitHub Actions" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  <a href="https://www.embarcadero.com/br/products/delphi" target="_blank">
+    <img src="./img/delphi-color.svg" height="47" alt="Delphi" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="./img/javascript-color.svg" height="47" alt="JavaScript" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="./img/python-color.svg" height="47" alt="Python" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="./img/php-color.svg" height="47" alt="PHP" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="./img/prisma-color.svg" height="47" alt="Prisma" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="./img/nodedotjs-color.svg" height="47" alt="Node.js" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="./img/postgresql-color.svg" height="47" alt="PostgreSQL" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="./img/mysql-color.svg" height="47" alt="MySQL" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://mariadb.org/" target="_blank">
+    <img src="./img/mariadb-color.svg" height="47" alt="MariaDB" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="./img/docker-color.svg" height="47" alt="Docker" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="./img/githubactions-color.svg" height="47" alt="GitHub Actions" style="background-color: white; border-radius: 5px; padding: 2px; margin-right: 4px">
+  </a>
 </p>
 
 <p align="center">
