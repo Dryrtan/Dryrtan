@@ -20,7 +20,7 @@ Always looking for new challenges and learning in the area of ​​software dev
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a dashboard with an API and doing outsourced work in PHP**
-- 🌱 I'm currently learning: **📚 Diving deeper into Node.js**
+- 🌱 I'm currently learning: **📚 Studying AGILE methodologies in the postgraduate program in software engineering at the Pontifical Catholic University of Minas Gerais (PUC Minas)**
 - 💬 Ask me about: **💡 PHP, Python, JavaScript, Node.js, Delphi SQL, and RESTful APIs**
 - ⚡ Fun fact: **📱 I already created a website using a Nokia E71**
 
