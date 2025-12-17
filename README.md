@@ -64,5 +64,9 @@ Always looking for new challenges and learning in the area of ​​software dev
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dryrtan&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <br />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxt35poytv673mrgk7pxjtbcsy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxt35poytv673mrgk7pxjtbcsy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
 </p>
 
